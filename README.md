@@ -8,6 +8,8 @@ Este é um programa simples em Java para controlar despesas pessoais. O programa
 * **Transporte:** Inclui despesas com gasolina, transporte público, estacionamentos, etc.
 * **Diárias:**  Abrange gastos com diárias em viagens, hospedagem, etc.
 
+![Captura de Tela Principal](img/1.png)
+
 ### Funcionalidades:
 
 * **Cadastro de Despesas:** O usuário pode inserir novas despesas, informando a descrição, categoria e valor.
